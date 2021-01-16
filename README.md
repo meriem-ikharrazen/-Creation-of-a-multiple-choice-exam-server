@@ -27,8 +27,16 @@ We can also add questions to exams already created.<br/><br/>
 
 **-->For execution: first run "the Server class" to start the server then "the Main class"**<br/><br/>
 1-  Server and Main interfaces:<br/>
-❮img src="images/Server+Main.png" width="50" ❯
-2-  Student Area:<br/>
-❮img src="images/StudentArea.JPG" width="50" ❯
+![](images/Server+Main.png)<br/>
+2-  Student area (Sign in):<br/>
+![](images/StudentArea.JPG)<br/>
 3-  Multiple Choice Exams:<br/>
-❮img src="images/QCM.JPG" width="50" ❯
+![](images/QCM.JPG)<br/>
+4-  Student Choices:<br/>
+![](images/StudentChoices.JPG)<br/>
+5-  Exam:<br/>
+![](images/exam.JPG)<br/>
+6-  Teacher's area (Sign in):<br/>
+![](images/Teacher's%20Area.JPG)<br/>
+7-  Teacher choices :<br/>
+![](images/TeacherChoices.JPG)<br/>
