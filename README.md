@@ -1,7 +1,7 @@
 # -Creation-of-a-multiple-choice-exam-server
 
 
--->Main ideas in that project<br/>
+**-->Main ideas in that project<br/>**
 The following project is based on the client / server architecture in Java with sockets.<br/><br/>
 
 ##Student Area <br/>
@@ -17,7 +17,7 @@ The following project is based on the client / server architecture in Java with 
   -See the students' marks for each exam <br/>
 We can also add questions to exams already created.<br/><br/>
 
--->Take into consideration:<br/>
+**-->Take into consideration:<br/>**
 1-Libraries used: <br/>
   -rs2xml -mysql<br/>
   -connector <br/>
@@ -25,4 +25,4 @@ We can also add questions to exams already created.<br/><br/>
 
 2-Exporting the database named qcm.<br/><br/>
 
--->For execution: first run "the Server class" to start the server then "the Main class"<br/>
+**-->For execution: first run "the Server class" to start the server then "the Main class"<br/>**
