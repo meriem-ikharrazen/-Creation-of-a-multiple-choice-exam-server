@@ -38,5 +38,5 @@ We can also add questions to exams already created.<br/><br/>
 ![](images/exam.JPG)<br/>
 6-  Teacher's area (Sign in):<br/>
 ![](images/Teacher's%20Area.JPG)<br/>
-7-  Teacher choices :<br/>
+7-  Teacher choices:<br/>
 ![](images/TeacherChoices.JPG)<br/>
