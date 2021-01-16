@@ -26,5 +26,7 @@ We can also add questions to exams already created.<br/><br/>
 2-Exporting the database named qcm.<br/><br/>
 
 **-->For execution: first run "the Server class" to start the server then "the Main class"**<br/><br/>
-![](images/Server+Main.png)<br/><br/>
-![](images/StudentArea.jpg)<br/><br/>
+1-  Server and Main interfaces:<br/>
+![](images/Server+Main.png)
+**2-  Student Area:**<br/>
+![](images/StudentArea.JPG)<br/><br/>
