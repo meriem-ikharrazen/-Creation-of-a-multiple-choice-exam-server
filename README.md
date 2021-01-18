@@ -30,10 +30,10 @@ We can also add questions to exams already created.<br/><br/>
 ![](images/Server+Main.png)<br/>
 2-  Student area (Sign in):<br/>
 ![](images/StudentArea.JPG)<br/>
-3-  Multiple Choice Exams:<br/>
-![](images/QCM.JPG)<br/>
-4-  Student Choices:<br/>
+3-  Student Choices:<br/>
 ![](images/StudentChoices.JPG)<br/>
+4-  Multiple Choice Exams:<br/>
+![](images/QCM.JPG)<br/>
 5-  Exam:<br/>
 ![](images/exam.JPG)<br/>
 6-  Teacher's area (Sign in):<br/>
